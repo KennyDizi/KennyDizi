@@ -8,3 +8,10 @@
 KennyDizi/KennyDizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Opensources that I contributed to
+| Project Name | Application |
+| -------- | -------- |
+| AgentGPT    | https://github.com/reworkd/AgentGPT    |
+| MidJourney-Web    | https://github.com/ConnectAI-E/MidJourney-Web    |
+
+
