@@ -13,6 +13,7 @@ Opensources that I contributed to
 | -------- | -------- |
 | AgentGPT    | https://github.com/reworkd/AgentGPT    |
 | MidJourney-Web    | https://github.com/ConnectAI-E/MidJourney-Web    |
+| Create realistic images and art from a description in natural language with DALL-E 2 and NextJS    | [https://github.com/ConnectAI-E/MidJourney-Web](https://github.com/1998code/DALLE-2-App)    |
 | ACR User Dialogs    | https://github.com/aritchie/userdialogs    |
 | Barcode Scanner using GoogleVision API for Xamarin Form, Maui    | https://github.com/JimmyPun610/BarcodeScanner.Mobile    |
 | Curved Bottom Navigation for Xamarin Forms    | https://github.com/WasifMustafa95/FormsCurvedBottomNavigationView    |
