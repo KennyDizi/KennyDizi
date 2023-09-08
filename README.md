@@ -2,7 +2,7 @@
 - 👀 I’m interested in sport, reading books and technical articles on Medium
 - 🌱 I’m currently learning AWS Certs
 - 💞️ I’m looking to collaborate on some interesting open-source projects
-- 📫 How to reach me: chitrung09t2@gmail.com or (+84) 349792737
+- 📫 How to reach me: chitrung09t2@gmail.com or Whatsapp (+84) 349792737
 
 <!---
 KennyDizi/KennyDizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
