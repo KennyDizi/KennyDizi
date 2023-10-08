@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kenny, a senior software engineer, currently I'm working on AWS and Xamarin/MAUI technology.
-- 👀 I’m interested in sport, reading books and technical articles on Medium
+- 👋 Hi, I’m Kenny, an enthusiastic and dedicated Senior Software Engineer with over a decade of almost 11 years of working experience, specializing in AWS serverless/microservices technologies and NodeJS on the backend side and Xamarin Forms/MAUI on the front-end side. AWS Solution Architect Associate certified, demonstrating expertise in utilizing AWS services such as S3, DynamoDB, SNS, SQS, KMS, Kinesis, and many more. He was recognized for creating robust, scalable serverless applications, handling high-traffic loads and large volumes of data. I was committed to leveraging these skills to drive innovation and quality in service delivery. Arctic Code Vault Contributor of 2020 GitHub Archive Program, Pair Extraordinaire, Pull Shark, Starstruck, and other Github achievements; contributor of many open-source projects on GitHub
+- 👀 I’m interested in sports, reading books and technical articles on Medium
 - 🌱 I’m currently learning AWS Certs
 - 💞️ I’m looking to collaborate on some interesting open-source projects
 - 📫 How to reach me: chitrung09t2@gmail.com or Whatsapp (+84) 349792737
@@ -8,7 +8,7 @@
 KennyDizi/KennyDizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Opensources that I contributed to
+Open source projects that I contributed to
 | Project Name | Application |
 | -------- | -------- |
 | AgentGPT    | https://github.com/reworkd/AgentGPT    |
