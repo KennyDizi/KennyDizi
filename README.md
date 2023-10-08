@@ -17,7 +17,6 @@ Opensources that I contributed to
 | ACR User Dialogs    | https://github.com/aritchie/userdialogs    |
 | Barcode Scanner using GoogleVision API for Xamarin Form, Maui    | https://github.com/JimmyPun610/BarcodeScanner.Mobile    |
 | Curved Bottom Navigation for Xamarin Forms    | https://github.com/WasifMustafa95/FormsCurvedBottomNavigationView    |
-| ChatGPT-Midjourey-Web    | https://github.com/Licoy/ChatGPT-Midjourney    |
 | Strongly typed ORM for DynamoDB - Built with the single-table-design pattern in mind.    | [https://github.com/typedorm/typedorm](https://github.com/typedorm/typedorm)    |
 | Own your own ChatGPT+Midjourney web service with one click     | https://github.com/Licoy/ChatGPT-Midjourney    |
 | Distancing with AR in Xamarin Forms     | https://github.com/KennyDizi/ARDistancing    |
