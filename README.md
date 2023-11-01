@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kenny, an enthusiastic and dedicated Senior Software Engineer with over a decade of almost 11 years of working experience, specializing in AWS serverless/microservices technologies and NodeJS on the backend side and Xamarin Forms/MAUI on the front-end side. AWS Solution Architect Associate certified, demonstrating expertise in utilizing AWS services such as S3, DynamoDB, SNS, SQS, KMS, Kinesis, and many more. He was recognized for creating robust, scalable serverless applications, handling high-traffic loads and large volumes of data. I was committed to leveraging these skills to drive innovation and quality in service delivery. Arctic Code Vault Contributor of 2020 GitHub Archive Program, Pair Extraordinaire, Pull Shark, Starstruck, and other Github achievements; contributor of many open-source projects on GitHub
 - 👀 I’m interested in sports, reading books and technical articles on Medium
-- 🌱 I’m currently learning AWS Certs
+- 🌱 I obtained AWS SAA Certificate and I’m currently learning the other AWS Certs
 - 💞️ I’m looking to collaborate on some interesting open-source projects
 - 📫 How to reach me: chitrung09t2@gmail.com or Whatsapp (+84) 349792737
 
@@ -13,7 +13,7 @@ Open source projects that I contributed to
 | -------- | -------- |
 | 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍    | https://github.com/Codium-ai/pr-agent    |
 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.    | https://github.com/reworkd/AgentGPT    |
-| MidJourney-Web    | https://github.com/ConnectAI-E/MidJourney-Web    |
+| 🍎 Pursue the ultimate creative experience with Midjourney Web | Supercharged Experience For MidJourney On Web UI    | https://github.com/ConnectAI-E/MidJourney-Web    |
 | Create realistic images and art from a description in natural language with DALL-E 2 and NextJS    | [https://github.com/1998code/DALLE-2-App](https://github.com/1998code/DALLE-2-App)    |
 | ACR User Dialogs    | https://github.com/aritchie/userdialogs    |
 | Barcode Scanner using GoogleVision API for Xamarin Form, Maui    | https://github.com/JimmyPun610/BarcodeScanner.Mobile    |
