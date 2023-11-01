@@ -12,7 +12,7 @@ Open source projects that I contributed to
 | Project Name | Application |
 | -------- | -------- |
 | 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍    | https://github.com/Codium-ai/pr-agent    |
-| AgentGPT    | https://github.com/reworkd/AgentGPT    |
+| 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.    | https://github.com/reworkd/AgentGPT    |
 | MidJourney-Web    | https://github.com/ConnectAI-E/MidJourney-Web    |
 | Create realistic images and art from a description in natural language with DALL-E 2 and NextJS    | [https://github.com/1998code/DALLE-2-App](https://github.com/1998code/DALLE-2-App)    |
 | ACR User Dialogs    | https://github.com/aritchie/userdialogs    |
