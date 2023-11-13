@@ -23,3 +23,4 @@ Open source projects that I contributed to
 | Strongly typed ORM for DynamoDB - Built with the single-table-design pattern in mind.    | [https://github.com/typedorm/typedorm](https://github.com/typedorm/typedorm)    |
 | Own your own ChatGPT+Midjourney web service with one click     | https://github.com/Licoy/ChatGPT-Midjourney    |
 | Distancing with AR in Xamarin Forms     | https://github.com/KennyDizi/ARDistancing    |
+| Xamarin.Android.OpenCV Binding     | https://github.com/VieXam/Xamarin.Android.OpenCV    |
