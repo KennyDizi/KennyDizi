@@ -13,6 +13,7 @@ Open source projects that I contributed to
 | Project Name | Application |
 | -------- | -------- |
 | Creator @ AI4Organization - a pioneering IT organization focused on leveraging artificial intelligence (AI) to empower businesses to better understand their customers.    | https://github.com/AI4Organization    |
+| Deploy [Langfuse](https://github.com/langfuse/langfuse) to ECR and ECS with Fargate and AWS CDK.     | [https://github.com/AI4Organization/langfuse-ecr-ecs-deployment-cdk](https://github.com/AI4Organization/langfuse-ecr-ecs-deployment-cdk)    |
 | 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍    | https://github.com/Codium-ai/pr-agent    |
 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.    | https://github.com/reworkd/AgentGPT    |
 | 🍎 Pursue the ultimate creative experience with Midjourney Web, Supercharged Experience For MidJourney On Web UI    | https://github.com/ConnectAI-E/MidJourney-Web    |
