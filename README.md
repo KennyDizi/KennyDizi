@@ -12,7 +12,9 @@ You can click the Preview link to take a look at your changes.
 Open source projects that I contributed to
 | Project Name | Application |
 | -------- | -------- |
-| Creator @ AI4Organization - a pioneering IT organization focused on leveraging artificial intelligence (AI) to empower businesses to better understand their customers.    | https://github.com/AI4Organization    |
+| Creator @ AI4Organization - a pioneering IT organization focused on leveraging artificial intelligence (AI) to empower businesses to understand their customers better.    | https://github.com/AI4Organization    |
+| Repository for a dedicated, cost-efficient cohere embed v3 services with AWS App Runner.     | https://github.com/SofarDatas/cohere-embed-v3-services    |
+| Repository for a dedicated, cost-efficient for cohere rerank v3 services with AWS App Runner.     | https://github.com/SofarDatas/cohere-rerank-v3-services    |
 | Deploy [Langfuse](https://github.com/langfuse/langfuse) to ECR and ECS with Fargate and AWS CDK.     | [https://github.com/AI4Organization/langfuse-ecr-ecs-deployment-cdk](https://github.com/AI4Organization/langfuse-ecr-ecs-deployment-cdk)    |
 | 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍    | https://github.com/Codium-ai/pr-agent    |
 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.    | https://github.com/reworkd/AgentGPT    |
