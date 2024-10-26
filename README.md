@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 Open source projects that I contributed to
 | Project Name | Application |
 | -------- | -------- |
-| Creator @ AI4Organization - a pioneering IT organization focused on leveraging artificial intelligence (AI) to empower businesses to understand their customers better.    | https://github.com/AI4Organization    |
-| Creator @SOFAR DATAS - Empowering AI Solutions with Generative RAG and LLM on AWS for Innovative Business Transformations.     | https://github.com/SofarDatasAI    |
+| Creator @AI4Organization - a pioneering IT organization focused on leveraging artificial intelligence (AI) to empower businesses to understand their customers better.    | https://github.com/AI4Organization    |
+| Creator @SofarDataAI - Empowering AI Solutions with Generative RAG and LLM on AWS for Innovative Business Transformations.     | https://github.com/SofarDatasAI    |
 | 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍    | https://github.com/Codium-ai/pr-agent    |
 | PlayGround with several RAG Techniques.     | https://github.com/KennyDizi/RAG-PlayGround    |
 | Repository for a dedicated, cost-efficient cohere embed v3 services with AWS App Runner.     | https://github.com/SofarDatasAI/cohere-embed-v3-services    |
