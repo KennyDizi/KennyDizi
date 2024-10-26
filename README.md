@@ -14,10 +14,11 @@ Open source projects that I contributed to
 | -------- | -------- |
 | Creator @ AI4Organization - a pioneering IT organization focused on leveraging artificial intelligence (AI) to empower businesses to understand their customers better.    | https://github.com/AI4Organization    |
 | Creator @SOFAR DATAS - Empowering AI Solutions with Generative RAG and LLM on AWS for Innovative Business Transformations.     | https://github.com/SofarDatasAI    |
+| 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍    | https://github.com/Codium-ai/pr-agent    |
+| PlayGround with several RAG Techniques.     | https://github.com/KennyDizi/RAG-PlayGround    |
 | Repository for a dedicated, cost-efficient cohere embed v3 services with AWS App Runner.     | https://github.com/SofarDatasAI/cohere-embed-v3-services    |
 | Repository for a dedicated, cost-efficient for cohere rerank v3 services with AWS App Runner.     | https://github.com/SofarDatasAI/cohere-rerank-v3-services    |
 | Deploy [Langfuse](https://github.com/langfuse/langfuse) to ECR and ECS with Fargate and AWS CDK.     | [https://github.com/AI4Organization/langfuse-ecr-ecs-deployment-cdk](https://github.com/AI4Organization/langfuse-ecr-ecs-deployment-cdk)    |
-| 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍    | https://github.com/Codium-ai/pr-agent    |
 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.    | https://github.com/reworkd/AgentGPT    |
 | 🍎 Pursue the ultimate creative experience with Midjourney Web, Supercharged Experience For MidJourney On Web UI    | https://github.com/ConnectAI-E/MidJourney-Web    |
 | 🚀 Elevating AI Creativity: Explore the Power of DALL-E 3 with Our Latest Open-Source Web UI Project!    | https://github.com/AI4Organization/DALL-E-3-WebUI    |
