@@ -16,6 +16,7 @@ Open source projects that I contributed to
 | Creator @SofarDataAI - Empowering AI Solutions with Generative RAG and LLM on AWS for Innovative Business Transformations.     | [SofarDatasAI](https://github.com/SofarDatasAI)    |
 | Creator @OpenWorkspace-o1 - Elevate your private data with GenAI.    | [OpenWorkspace-o1](https://github.com/OpenWorkspace-o1)     |
 | 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍    | https://github.com/Codium-ai/pr-agent    |
+| RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.     | RAGFlow    | https://github.com/infiniflow/ragflow    |
 | PlayGround with several RAG Techniques.     | https://github.com/KennyDizi/RAG-PlayGround    |
 | Repository for a dedicated, cost-efficient cohere embed v3 services with AWS App Runner.     | https://github.com/SofarDatasAI/cohere-embed-v3-services    |
 | Repository for a dedicated, cost-efficient for cohere rerank v3 services with AWS App Runner.     | https://github.com/SofarDatasAI/cohere-rerank-v3-services    |
