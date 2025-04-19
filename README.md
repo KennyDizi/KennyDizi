@@ -19,6 +19,7 @@ Open source projects that I contributed to
 | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.     | [RAGFlow](https://github.com/infiniflow/ragflow)    |
 | 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents     | [Camel Agent Framework](https://github.com/camel-ai/camel)
 | PlayGround with several RAG Techniques.     | https://github.com/KennyDizi/RAG-PlayGround    |
+| 🙌 OpenHands: Code Less, Make More     | https://github.com/All-Hands-AI/OpenHands    |
 | Repository for a dedicated, cost-efficient cohere embed v3 services with AWS App Runner.     | https://github.com/SofarDatasAI/cohere-embed-v3-services    |
 | Repository for a dedicated, cost-efficient for cohere rerank v3 services with AWS App Runner.     | https://github.com/SofarDatasAI/cohere-rerank-v3-services    |
 | Deploy [Langfuse](https://github.com/langfuse/langfuse) to ECR and ECS with Fargate and AWS CDK.     | [https://github.com/AI4Organization/langfuse-ecr-ecs-deployment-cdk](https://github.com/AI4Organization/langfuse-ecr-ecs-deployment-cdk)    |
