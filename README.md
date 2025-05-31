@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in sports, reading books and technical articles on Medium, and contributing to some interesting GenAI OSS projects on GitHub
 - 🌱 I obtained AWS SAA Certificate and I’m currently learning the other AWS Certs
-- 💞️ I’m looking to collaborate on some interesting open-source projects
+- 💞️ I’m looking to collaborate on some fascinating AI projects
 - 📫 How to reach me: chitrung09t2@gmail.com or Whatsapp (+84) 349792737
 
 <!---
