@@ -20,6 +20,7 @@ Open source projects that I contributed to
 | 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents     | [Camel Agent Framework](https://github.com/camel-ai/camel)
 | 🙌 OpenHands: Code Less, Make More     | https://github.com/All-Hands-AI/OpenHands    |
 | Develop software autonomously     | https://github.com/ai-christianson/RA.Aid    |
+| 🚀 APA – Async Prompt Optimizer     | https://github.com/KennyDizi/APA    |
 | PlayGround with several RAG Techniques.     | https://github.com/KennyDizi/RAG-PlayGround    |
 | Repository for a dedicated, cost-efficient cohere embed v3 services with AWS App Runner.     | https://github.com/SofarDatasAI/cohere-embed-v3-services    |
 | Repository for a dedicated, cost-efficient for cohere rerank v3 services with AWS App Runner.     | https://github.com/SofarDatasAI/cohere-rerank-v3-services    |
