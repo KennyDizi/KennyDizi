@@ -15,7 +15,7 @@ Open source projects that I contributed to
 | Creator @AI4Organization - a pioneering IT organization focused on leveraging artificial intelligence (AI) to empower businesses to understand their customers better.    | [AI4Organization](https://github.com/AI4Organization)    |
 | Creator @OpenWorkspace-o1 - Elevate your private data with GenAI.    | [OpenWorkspace-o1](https://github.com/OpenWorkspace-o1)     |
 | 🚀 PR-Agent (Qodo Merge open-source): An AI-powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions, and More! 💻🔍    | [PR-Agent](https://github.com/qodo-ai/pr-agent)    |
-| 🚀 APA – Async Prompt Optimizer     | https://github.com/KennyDizi/APA    |
+| 🚀 APA – Async Prompt Optimizer     | [APA](https://github.com/KennyDizi/APA)    |
 | 🔎 GPT Researcher - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.     | [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher)    |
 | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.     | [RAGFlow](https://github.com/infiniflow/ragflow)    |
 | 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents     | [Camel Agent Framework](https://github.com/camel-ai/camel)
