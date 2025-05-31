@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kenny, an enthusiastic and dedicated Senior Software Engineer with over a decade of almost 12 years of working experience, specializing in AWS serverless/microservices technologies and NodeJS (TypeScript) // Python. GenAI App developer and contributor to OpenWorkspace-o1, QodoAI, RAGFlow, @GPT Researcher, and many open-source projects on GitHub.
+- 👋 Hi, I’m Kenny, an enthusiastic and dedicated Senior Software Engineer with over a decade of almost 12 years of working experience, specializing in AWS serverless/microservices technologies and NodeJS (TypeScript) // Python. A GenAI App developer and contributor to OpenWorkspace-o1, QodoAI, RAGFlow, @GPT Researcher, and many open-source projects on GitHub.
 
 - 👀 I’m interested in sports, reading books and technical articles on Medium, and contributing to some interesting GenAI OSS projects on GitHub
 - 🌱 I obtained AWS SAA Certificate and I’m currently learning the other AWS Certs
