@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kenny, an enthusiastic and dedicated Senior Software Engineer with over a decade of almost 12 years of working experience, specializing in AWS serverless/microservices technologies and NodeJS (TypeScript) // Python. A GenAI App developer and contributor to OpenWorkspace-o1, QodoAI, RAGFlow, @GPT Researcher, and many open-source projects on GitHub.
+- 👋 Hi, I’m Kenny, an enthusiastic and dedicated Senior Software Engineer with over a decade of almost 12 years of working experience, specializing in AWS serverless/microservices technologies and NodeJS (TypeScript) // Python. A GenAI App developer and contributor to [OpenWorkspace-o1](https://github.com/OpenWorkspace-o1), [QodoAI](https://github.com/qodo-ai), [RAGFlow](https://github.com/infiniflow/ragflow), [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher), [Aider-AI](https://github.com/Aider-AI/aider) and many open-source projects on GitHub.
 
 - 👀 I’m interested in sports, reading books and technical articles on Medium, and contributing to some interesting GenAI OSS projects on GitHub
 - 🌱 I obtained AWS SAA Certificate and I’m currently learning the other AWS Certs
@@ -16,6 +16,7 @@ Open source projects that I contributed to
 | Creator @OpenWorkspace-o1 - Elevate your private data with GenAI.    | [OpenWorkspace-o1](https://github.com/OpenWorkspace-o1)     |
 | 🚀 PR-Agent (Qodo Merge open-source): An AI-powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions, and More! 💻🔍    | [PR-Agent](https://github.com/qodo-ai/pr-agent)    |
 | 🚀 APA – Async Prompt Optimizer     | [APA](https://github.com/KennyDizi/APA)    |
+| AI pair programming in your terminal     | [Aider-AI](https://github.com/Aider-AI/aider)    |
 | 🔎 GPT Researcher - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.     | [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher)    |
 | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.     | [RAGFlow](https://github.com/infiniflow/ragflow)    |
 | 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents     | [Camel Agent Framework](https://github.com/camel-ai/camel)
