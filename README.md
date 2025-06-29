@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kenny, an enthusiastic and dedicated Senior Software Engineer with over a decade of almost 12 years of working experience, specializing in AWS serverless/microservices technologies and NodeJS (TypeScript) // Python. A GenAI App developer and contributor to [OpenWorkspace-o1](https://github.com/OpenWorkspace-o1), [QodoAI](https://github.com/qodo-ai), [RAGFlow](https://github.com/infiniflow/ragflow), [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher), [Aider-AI](https://github.com/Aider-AI/aider) and many open-source projects on GitHub.
+- 👋 Hi, I’m Kenny, an enthusiastic and dedicated Senior Software Engineer with over 12 years of experience, specializing in AWS serverless and microservices technologies, as well as NodeJS (TypeScript) and Python. A GenAI App developer and contributor to [OpenWorkspace-o1](https://github.com/OpenWorkspace-o1), [QodoAI](https://github.com/qodo-ai), [OpenHands](https://github.com/All-Hands-AI/OpenHands), [RAGFlow](https://github.com/infiniflow/ragflow), [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher), [Aider-AI](https://github.com/Aider-AI/aider) and many open-source projects on GitHub.
 
 - 👀 I’m interested in sports, reading books and technical articles on Medium, and contributing to some interesting GenAI OSS projects on GitHub
 - 🌱 I obtained AWS SAA Certificate and I’m currently learning the other AWS Certs
@@ -21,6 +21,7 @@ Open source projects that I contributed to
 | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.     | [RAGFlow](https://github.com/infiniflow/ragflow)    |
 | 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents     | [Camel Agent Framework](https://github.com/camel-ai/camel)
 | 🙌 OpenHands: Code Less, Make More     | https://github.com/All-Hands-AI/OpenHands    |
+| 🙌 OpenHands:  Advanced Use     | [OHA](https://github.com/KennyDizi/OHA)    |
 | Develop software autonomously     | https://github.com/ai-christianson/RA.Aid    |
 | PlayGround with several RAG Techniques.     | https://github.com/KennyDizi/RAG-PlayGround    |
 | Repository for a dedicated, cost-efficient cohere embed v3 services with AWS App Runner.     | https://github.com/SofarDatasAI/cohere-embed-v3-services    |
