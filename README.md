@@ -16,7 +16,7 @@ Open source projects that I contributed to
 | Creator @OpenWorkspace-o1 - Elevate your private data with GenAI.    | [OpenWorkspace-o1](https://github.com/OpenWorkspace-o1)     |
 | 🚀 PR-Agent (Qodo Merge open-source): An AI-powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions, and More! 💻🔍    | [PR-Agent](https://github.com/qodo-ai/pr-agent)    |
 | 🚀 APA – Async Prompt Optimizer     | [APA](https://github.com/KennyDizi/APA)    |
-| 🤖 Claude Code Proxy - Make Claude Code work with OpenAI-compatible API     | (CCProxy)[https://github.com/KennyDizi/CCProxy]    |
+| 🤖 Claude Code Proxy - Make Claude Code work with OpenAI-compatible API     | [CCProxy](https://github.com/KennyDizi/CCProxy)    |
 | AI pair programming in your terminal     | [Aider-AI](https://github.com/Aider-AI/aider)    |
 | 🔎 GPT Researcher - LLM-based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.     | [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher)    |
 | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.     | [RAGFlow](https://github.com/infiniflow/ragflow)    |
